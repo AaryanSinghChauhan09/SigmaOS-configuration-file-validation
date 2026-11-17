@@ -3,7 +3,7 @@ name = "SigmaOS-configuration-file-validation"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "configuration-file-validation component"
+description = "Configuration File Validation"
 upstream = []
 
 [contract]
